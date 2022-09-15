@@ -22,10 +22,10 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with cool minded people like me as a team.
 
-[![Linkedin: Akash Jaiswal](https://img.shields.io/badge/-MoneshVenkul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-jaiswal-a8a9019a/)](https://linkedin.com/in/akash-jaiswal-a8a9019a)
+[![Linkedin: Akash Jaiswal](https://img.shields.io/badge/-Akash Jaiswal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-jaiswal-a8a9019a/)](https://linkedin.com/in/akash-jaiswal-a8a9019a)
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=akash-jaiswal-8a80b6174" target="_blank">Follow on LinkedIn</a>
 [![GitHub Akash Jaiswal](https://img.shields.io/github/followers/iampawan?label=follow&style=social)](https://github.com/akashjaiswal04)
-[![website](https://img.shields.io/badge/PortfolioWebsite-MoneshVenkul.live-2648ff?style=flat-square&logo=google-chrome)](https://akashjaiswal04.github.io/)
+[![website](https://img.shields.io/badge/PortfolioWebsite-Akash Jaiswal.live-2648ff?style=flat-square&logo=google-chrome)](https://akashjaiswal04.github.io/)
 
 
 **Languages and Tools:**  
