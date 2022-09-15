@@ -18,7 +18,7 @@
 - 🌱 I’m learning more about Full Stack Development using Framework.
 - 🤔 I’m feeling happy for help with career guidance.
 - 💬 Ask me any quaries or any tech related stuff.
-- 📫 How to reach me: [Linkedin - @AKASH JAISWAL](https://www.linkedin.com/in/akash-jaiswal-a8a9019a/).[Twitter - @jaiswal15794]([https://twitter.com    /JAISWAL15794]).
+- 📫 How to reach me: [Linkedin - @AKASH JAISWAL](https://www.linkedin.com/in/akash-jaiswal-a8a9019a/).[Twitter - @jaiswal15794]
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I would love to work with cool minded people like me as a team.
 
