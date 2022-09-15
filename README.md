@@ -1,4 +1,4 @@
-## Ciao, I'm [AKASH JAISWAL!](https://akashjaiswal04.github.io/) 👋
+##     Ciao, I'm [AKASH JAISWAL !](https://akashjaiswal04.github.io/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="akashjaiswal04" /> </p>
 
@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working in my skills.
+- 🔭 I’m currently working on my skills.
 - 🌱 I’m learning more about Full Stack Development using Framework.
 - 🤔 I’m feeling happy for help with career guidance.
 - 💬 Ask me any quaries or any tech related stuff.
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-### Show some ❤️ !
+### Show some ❤️ from your side!
 
 </div>
 
