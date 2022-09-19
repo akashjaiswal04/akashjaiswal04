@@ -1,6 +1,6 @@
-<pre>
+
 ##  Ciao, I'm [AKASH JAISWAL !](https://github.com/akashjaiswal04/) 👋
-</pre>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="akashjaiswal04" /> </p>
 
 
